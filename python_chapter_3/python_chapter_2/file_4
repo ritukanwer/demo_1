@@ -1,0 +1,7 @@
+import os
+
+directory_path = '/'
+con = os.listdir(directory_path)
+
+for items in con:
+    print(items)

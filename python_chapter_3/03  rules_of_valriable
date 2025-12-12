@@ -1,0 +1,5 @@
+a = 20 
+
+ri = 40 
+
+@ieur = 20 # variable cant start from digit and   not contain space

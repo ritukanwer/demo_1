@@ -1,0 +1,22 @@
+#arthmetic operator 
+
+a =3
+b= 5
+print(a+b)
+
+
+#assignment opertors
+a = 9-4 #(= assignment operator)
+print(a)
+# 
+
+
+# comparision operator
+a = 4<5   #true and false
+print(a)
+
+
+# logical operator
+# or if one condition is true
+# and both condition are true
+# not = true ko false or false ko true me convert karta h
