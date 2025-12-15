@@ -7,5 +7,7 @@ def http_status(status):
             return "not found"
         case 500:
             return "internal server error"
+        case _:
+            return "unkown_number"
         
-print(http_status(500))
+print(http_status(700))
