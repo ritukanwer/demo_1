@@ -6,3 +6,7 @@ sequre_list = []
 
 sequre_list = [i * i for i in mylist]   # using list comrehension
 print(sequre_list)
+
+
+cube = [ i*i*i for i in mylist]
+print(cube)
